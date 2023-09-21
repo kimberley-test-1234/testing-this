@@ -1,0 +1,3 @@
+name: azure-csharp-123456
+runtime: dotnet
+description: A minimal Azure Native C# Pulumi program
